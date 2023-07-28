@@ -47,9 +47,11 @@
 
 Данные предоставленные в проекте:
 
-holiday_data.csv.xls
-weather_data.csv
-osrm_data.csv
+- holiday_data.csv.xls
+
+- weather_data.csv
+
+- osrm_data.csv
 
 :arrow_up:[к оглавлению](_)
    ### Этапы работы над проектом:     
